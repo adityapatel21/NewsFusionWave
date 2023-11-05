@@ -9,7 +9,6 @@ import Footer from "./Components/Footer";
 
 const App = () => {
   const apiKey = process.env.REACT_APP_NEWS_API;
-  console.log(apiKey);
 
   // setProgress = (progress) => {
   //   this.setState({ progress: progress });
